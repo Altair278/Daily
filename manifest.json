@@ -2,7 +2,7 @@
   "name": "Suivi MPCI — Été 2026",
   "short_name": "MPCI",
   "description": "Tracker de préparation grande école — MPCI L1 → L2",
-  "start_url": "/Daily/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#050709",
   "theme_color": "#050709",
